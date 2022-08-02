@@ -1,5 +1,5 @@
 void main() {
-  // print("Hello Dart");
+  print("Hello Dart");
   // var name = "Ebrahim";
   //     print(name);
   // String name = "Ebrahim Rahman";
@@ -229,7 +229,6 @@ void main() {
   //       print(value);
   //     }
   // );
-
 }
 
 optionalFun(name, [address]) {
@@ -244,8 +243,6 @@ sumOfNumbers(a, b) {
   print(a + b);
 }
 
-nameParameter({a,b}) {
-  print(a+b);
+nameParameter({a, b}) {
+  print(a + b);
 }
-
-
